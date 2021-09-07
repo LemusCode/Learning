@@ -11,6 +11,4 @@ $meses = array(
 
 $ultimo_mes = count($meses) - 1;
 
-$meses[$ultimo_mes];
 
-echo $meses;
