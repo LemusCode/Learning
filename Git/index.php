@@ -13,7 +13,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./javascript/javascript.js"></script>
-    <title>Document</title>
+    <title>Curso Git</title>
 </head>
 <body>
     <input type="button" onclick="saludo()" value="Picale">
