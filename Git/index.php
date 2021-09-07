@@ -18,15 +18,8 @@
 </head>
 <body>
     <input type="button" onclick="saludo()" value="Picale">
-<<<<<<< HEAD
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci ab et laudantium nobis aliquam ex amet natus explicabo deleniti iste!</p>
-=======
-
-
-
-
-
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci ab et laudantium nobis aliquam ex amet natus explicabo deleniti iste! - Texto de branch 2</p>
+    
     <p>Lorem, ipsum dolor. Desde Javascript Branch</p>
->>>>>>> javascript
 </body>
 </html>
