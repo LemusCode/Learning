@@ -18,5 +18,6 @@
 </head>
 <body>
     <input type="button" onclick="saludo()" value="Picale">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci ab et laudantium nobis aliquam ex amet natus explicabo deleniti iste!</p>
 </body>
 </html>
