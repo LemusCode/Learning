@@ -14,9 +14,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./javascript/javascript.js"></script>
     <link rel="stylesheet" href="./css/estilos.css">    
-    <title>Curso Git - Otro merge</title>
+
+    <title>Curso Git - Para Merge</title>
+
 </head>
 <body>
+    <h1>Titulo para la pagina</h1>
     <input type="button" onclick="saludo()" value="Picale">
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci ab et laudantium nobis aliquam ex amet natus explicabo deleniti iste! - Texto de branch 2</p>
     
