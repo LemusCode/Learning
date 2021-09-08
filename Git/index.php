@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./javascript/javascript.js"></script>
     <link rel="stylesheet" href="./css/estilos.css">    
-    <title>Curso Git</title>
+    <title>Curso Git - Otro merge</title>
 </head>
 <body>
     <input type="button" onclick="saludo()" value="Picale">
