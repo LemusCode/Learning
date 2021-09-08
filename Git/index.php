@@ -17,6 +17,7 @@
     <title>Curso Git</title>
 </head>
 <body>
+    <h1>Titulo para la pagina</h1>
     <input type="button" onclick="saludo()" value="Picale">
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci ab et laudantium nobis aliquam ex amet natus explicabo deleniti iste! - Texto de branch 2</p>
     
